@@ -42,5 +42,5 @@ module.exports = {
       dmsans: ['DM Sans', 'sans-serif']
     }
   },
-  plugins: [],
+  plugins: [{casnano : {}}],
 }
